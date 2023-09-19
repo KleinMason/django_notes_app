@@ -21,7 +21,7 @@ const NotesListPage = () => {
         <div className='notes'>
             <div className="notes-header">
                 <h2 className="notes-title">
-                    &#9782; Notes Woah
+                    &#9782; Notes Hey There
                 </h2>
                 <p className="notes-count">{notes.length}</p>
             </div>
